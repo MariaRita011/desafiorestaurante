@@ -4,7 +4,7 @@ body {
     border: 0;
 }
 
-header{
+header {
     background-color: darkslategrey;
     color: white;
     padding: 20px 0;
@@ -36,17 +36,17 @@ nav a {
     padding: 10px;
 }
 
-nav a:hover{
+nav a:hover {
     color: darkslategray;
     background-color: white;
     border-radius: 5px;
 }
 
-nav a:active{
+nav a:active {
     color: white;
 
 }
- 
+
 .foto {
     text-align: center;
 }
