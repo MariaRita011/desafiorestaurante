@@ -1,0 +1,11 @@
+footer {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: darkslategrey;
+    width: 100%;
+    color: whitesmoke;
+    bottom: 0px;
+    position:absolute;
+    padding: 0;
+}

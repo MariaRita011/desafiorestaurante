@@ -1,50 +1,40 @@
-body{
-    background-color: rgb(67, 107, 107);
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 
-h2{
+p {}
+
+#div1 {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px, 5px, 5px;
+}
+
+h1 {
     text-align: center;
-    font-size: 40px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    color: rgb(161, 161,161);
 }
 
-form{
+h4 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+.container {
+    background-color: rgb(253, 255, 255);
     display: flex;
-    flex-direction: column; 
-    width: 50%;
-    margin: auto;
-    margin-top: 50px;
 }
 
-#p11{
-    width: 460px;
-    background-color: rgb(161, 161,161);
-}
-
-#p11:houver{
-    color: rgb(161, 161,161);
-    font-family: sans-serif;
-}
-
-.p12:focus {
-    border-style: dotted;
-    border-color: darkslategrey;
-    outline: 0;
-}
-
-.p12{
-    border-color: darkslategrey;
-    border-style: dotted;
-}
-
-input{
-    margin: 20px;
-}
-
-section {
-    background-color:darkgrey;
-    width: 1000px;
+.container2 {
+    background: rgb (207, 207, 163);
     border-radius: 10px;
-    margin: auto;
-    }
+    box-shadow: 10px 5px 5px rgb(161, 161, 161);
+
+}
+
+#span1{
+    background-color: aqua;
+}
