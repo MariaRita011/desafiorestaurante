@@ -48,10 +48,10 @@ nav a:active {
 }
 
 .foto {
-    text-align: center
+    text-align: center;
 }
 
-.foto:hover {
-    text-decoration: none;
-
+.linkk {
+    background-color: darkslategray;
 }
+
