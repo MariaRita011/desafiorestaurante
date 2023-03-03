@@ -8,7 +8,9 @@ body {
 article {
     background-color: rgb(207, 207, 163);
     border-radius: 10px;
-    box-shadow: 10px 5px 5px rgb(161, 161, 161);
+    -webkit-box-shadow: 10px 10px 30px -15px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 30px -15px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 30px -15px rgba(0,0,0,0.75);
     margin: 20px;
 }
 
@@ -21,10 +23,14 @@ article {
     border-radius: 10px;
     height: 150px;
     margin: 20px;
-    box-shadow: 10px 5px 5px rgb(161, 161, 161);
+    -webkit-box-shadow: 10px 10px 30px -15px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 30px -15px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 30px -15px rgba(0,0,0,0.75);
+    
 }
 
-h2, h3 {
+h2,
+h3 {
     color: white;
     text-align: center;
     text-decoration: none;
@@ -41,7 +47,10 @@ p {
     display: inline;
     margin: 20px;
     border-radius: 10px;
-    box-shadow: 10px 5px 5px rgb(161, 161, 161);
+    -webkit-box-shadow: 10px 10px 30px -15px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 30px -15px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 30px -15px rgba(0,0,0,0.75);
+    
 }
 
 div {
@@ -73,7 +82,7 @@ iframe {
     width: 100%;
     margin: 0;
     padding: 0;
-    
+
 }
 
 #frame_footer {
