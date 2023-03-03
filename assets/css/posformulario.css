@@ -29,3 +29,14 @@ h1{
 #ffooter {
     margin-bottom: -5px;
 }
+a {
+    text-decoration: none;
+    color: darkslategray;
+    
+}
+
+a:hover {
+    background-color: darkslategray;
+    color: rgb(255,255,202);
+    border-radius: 3px;
+}
