@@ -37,7 +37,7 @@ form{
 }
 
 .p12{
-    border-color: rgb(255, 255, 202);
+    border-color: darkslategray;
     border-style: dotted;
 }
 
@@ -54,7 +54,7 @@ section {
     }
 
     label {
-        color: white;
+        color: darkslategray;
     }
 
     iframe{
