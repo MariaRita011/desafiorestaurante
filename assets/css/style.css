@@ -25,7 +25,7 @@ h2 {
 
 .container {
     background-color: rgb(253, 255, 255);
-    display: flex;
+    width: 100%;
 }
 
 .container2 {
@@ -38,3 +38,10 @@ h2 {
 #span1{
     background-color: aqua;
 }
+
+.container2 {
+    display: flex;
+    width: 25%;
+    text-align: center;
+}
+
