@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(67, 107, 107);
+    background-color: rgb(255, 255, 202);
 }
 
 h2{
     text-align: center;
     font-size: 40px;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    color: rgb(161, 161,161);
+    color: darkslategray;
 }
 
 form{
@@ -19,22 +19,22 @@ form{
 
 #p11{
     width: 460px;
-    background-color: rgb(161, 161,161);
+    background-color: white;
 }
 
 #p11:houver{
-    color: rgb(161, 161,161);
+    color: rgb(255, 255, 202);
     font-family: sans-serif;
 }
 
 .p12:focus {
     border-style: dotted;
-    border-color: darkslategrey;
+    border-color: rgb(255, 255, 202);
     outline: 0;
 }
 
 .p12{
-    border-color: darkslategrey;
+    border-color: rgb(255, 255, 202);
     border-style: dotted;
 }
 
@@ -43,7 +43,7 @@ input{
 }
 
 section {
-    background-color:darkgrey;
+    background-color: darkslategray;
     width: 1000px;
     border-radius: 10px;
     margin: auto;
