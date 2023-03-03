@@ -41,6 +41,7 @@ form{
     border-color: darkslategray;
     border-style: solid;
 width: 550px;
+border-radius: 5px;
 }
 
 input{
