@@ -41,6 +41,7 @@ p {
     display: inline;
     margin: 20px;
     border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(161, 161, 161);
 }
 
 div {
@@ -75,6 +76,6 @@ iframe {
     
 }
 
-section {
-    box-shadow: 10px 5px 5px rgb(161, 161, 161);
+#frame_footer {
+    margin-bottom: -5px;
 }
