@@ -1,5 +1,8 @@
 body{
     background-color: rgb(255, 255, 202);
+    margin: 0;
+    padding: 0;
+    
 }
 
 h2{
@@ -60,6 +63,6 @@ section {
         padding: 0%;
     }
 
-    #ffooter{
+    #footer {
         margin-bottom: -5px;
     }
