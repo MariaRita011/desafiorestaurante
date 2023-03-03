@@ -41,6 +41,7 @@ p {
     display: inline;
     margin: 20px;
     border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(161, 161, 161);
 }
 
 div {
@@ -50,6 +51,8 @@ div {
 img {
     margin: auto;
     width: 250px;
+    border-style: dashed;
+    border-color: rgb(207, 207, 163);
 }
 
 a {
@@ -71,4 +74,8 @@ iframe {
     margin: 0;
     padding: 0;
     
+}
+
+#frame_footer {
+    margin-bottom: -5px;
 }
