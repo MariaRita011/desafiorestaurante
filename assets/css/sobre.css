@@ -50,6 +50,8 @@ div {
 img {
     margin: auto;
     width: 250px;
+    border-style: dashed;
+    border-color: rgb(207, 207, 163);
 }
 
 a {
@@ -71,4 +73,8 @@ iframe {
     margin: 0;
     padding: 0;
     
+}
+
+section {
+    box-shadow: 10px 5px 5px rgb(161, 161, 161);
 }
